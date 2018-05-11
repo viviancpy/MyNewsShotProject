@@ -1,0 +1,16 @@
+{
+  "name": "NewsShot",
+  "version": "1.0.0",
+  "main": "snapshot.js",
+  "engines": {
+    "node": "8.11.1",
+    "yarn": "1.6.0"
+  },
+  "scripts": {
+    "start": "node snapshot.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
+}
